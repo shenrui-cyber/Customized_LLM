@@ -1,0 +1,93 @@
+[
+    {
+        "image_file": "v___mIAEE03bE_caption_0.jpg",
+        "caption": "I am snowboarding down a large hill of snow.",
+        "timestamp": "2024-02-22T12:01:35",
+        "latitude": 128.2111,
+        "longitude":  44.4586
+    },
+    {
+        "image_file": "v___mIAEE03bE_caption_1.jpg",
+        "caption": " I am snowboarding while holding a camera in front of me.",
+        "timestamp": "2024-02-22T12:02:09",
+        "latitude": 128.2111,
+        "longitude":  44.4586
+    },
+    {
+        "image_file": "v___mIAEE03bE_caption_2.jpg",
+        "caption": " My friends and I get to the bottom and start taking our snowboards off.",
+        "timestamp": "2024-02-22T12:03:20",
+        "latitude":  128.2111,
+        "longitude":  44.4586
+    },
+    {
+        "image_file": "v_0Bd8Js6Pf6E_caption_0.jpg",
+        "caption": "Two tam tams are in a living room.",
+        "timestamp": "2024-07-20T12:00:00",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_0Bd8Js6Pf6E_caption_1.jpg",
+        "caption": " Then, Tom comes and talks on front the tam tams.",
+        "timestamp": "2024-07-20T12:00:03",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_0Bd8Js6Pf6E_caption_2.jpg",
+        "caption": " After, Tom plays the tam tam in a living room.",
+        "timestamp": "2024-07-20T12:00:36",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_1PpVSeE2BJ8_caption_0.jpg",
+        "caption": " Jack is seated at a restaurant table.",
+        "timestamp": "2023-01-23T12:00:02",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_1PpVSeE2BJ8_caption_1.jpg",
+        "caption": " Jack is eating a vanilla ice cream cone.",
+        "timestamp": "2023-01-23T12:00:11",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_1PpVSeE2BJ8_caption_2.jpg",
+        "caption": " Jack takes a napkin and wipes his mouth before handing the napkin back and continuing to eat.",
+        "timestamp": "2023-01-23T12:00:32",
+        "latitude": 121.4737,
+        "longitude": 31.2304
+    },
+    {
+        "image_file": "v_5FM_xJGb-Tk_caption_0.jpg",
+        "caption": "I am paddling a boat.",
+        "timestamp": "2021-08-17T12:00:02",
+        "latitude": 120.1706,
+        "longitude": 31.2482
+    },
+    {
+        "image_file": "v_5FM_xJGb-Tk_caption_1.jpg",
+        "caption": " I am sitting by myself in the boat because it's so small it only fits one person really.",
+        "timestamp": "2021-08-17T12:00:10",
+        "latitude": 120.1706,
+        "longitude": 31.2482
+    },
+    {
+        "image_file": "v_5FM_xJGb-Tk_caption_2.jpg",
+        "caption": " I use a lot of energy into paddling, going really fast.",
+        "timestamp": "2021-08-17T12:00:19",
+        "latitude": 120.1706,
+        "longitude": 31.2482
+    },
+    { 
+        "image_file": "v_5FM_xJGb-Tk_caption_3.jpg",
+        "caption": " I am practicing for an event late in the future.",
+        "timestamp": "2021-08-17T12:00:29",
+        "latitude": 120.1706,
+        "longitude": 31.2482
+    }
+]
